@@ -1,11 +1,12 @@
 # MODULE-6
 
-#EX -25 –DISPLAYING ARRAYS USING POINTERS
+		#EX -25 –DISPLAYING ARRAYS USING POINTERS
 AIM
 
 Write a c program to read and display an array of any 6 integer elements using pointer
 
 ALGORITHM
+
 Step 1: Start the program.
 Step 2: Declare the following:
 •	Integer variable i for iteration.
@@ -37,11 +38,12 @@ Thus the C program to read and display an array of any 6 integer elements using 
 
 
 
-#EX-26-AREA-OF-RECTANGLE-USING- POINTER
+		#EX-26-AREA-OF-RECTANGLE-USING- POINTER
 AIM
 To write a C Program to find area of rectangle using pointer.
 
 ALGORITHM
+
 1.	Start the program.
 2.	Read two numbers.
 3.	Calculate the area of rectangle using the formula area=(x)(*y)
@@ -61,11 +63,12 @@ Thus the program to find area of rectangle using pointer has been executed succe
  
 
 
-#EX-27-DYNAMIC-MEMORY-ALLOCATION
+		#EX-27-DYNAMIC-MEMORY-ALLOCATION
 AIM
 To write a C Program to print 'WELCOME' using malloc() and free().
 
 ALGORITHM
+
 1.	Start the program.
 2.	Read a string variable.
 3.	Allocate memory using malloc().
@@ -112,7 +115,7 @@ Thus the program to store the student information and display it using structure
  
 
 
-#EX-29-EMPLOYEE-STRUCTURE-SALARY-CALCULATION
+		#EX-29-EMPLOYEE-STRUCTURE-SALARY-CALCULATION
 
 AIM
 
@@ -135,7 +138,7 @@ PROGRAM
 
 
 
-#EX – 30 -STUDENTS MARK -TOTAL &AVERAGE USING STRUCURE
+		#EX – 30 -STUDENTS MARK -TOTAL &AVERAGE USING STRUCURE
 
 AIM
 Create a C program to calculate the total and average of student using structure.
