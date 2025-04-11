@@ -1,6 +1,6 @@
 # MODULE-6
 
-		#EX -25 –DISPLAYING ARRAYS USING POINTERS
+		# EX -25 –DISPLAYING ARRAYS USING POINTERS
 AIM
 
 Write a c program to read and display an array of any 6 integer elements using pointer
